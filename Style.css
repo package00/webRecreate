@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.section1 {
+  background-color: rgb(102, 191, 191);
+  padding: 80px 100px;
+}
+
+.programmerName {
+  font-size: 20px;
+  font-family: Sacramento, cursive;
+  color: rgb(220, 220, 220);
+  font-size: 80px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.title {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 2px;
+}
+
+main{
+  display: flex;
+  align-items: center;
+  margin: 30px 0px;
+  justify-content: center;
+}
+
+.content-right {
+  margin: 30px 0;
+}
+
+.aboutMe {
+  font-family: Arial;
+  font-size: 25px;
+  text-align: center;
+}
+
+.aboutMeDetails {
+  font-size: 16px;
+  line-height: 12px;
+} 
+
+#image1 {
+ margin: 0 600px 0 10px;
+}
+
+.section2 {
+  background-color: #330c0c00;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: Arial;
+  font-size: 18px;
+}
+
+.section3 {
+  text-align: center;
+  line-height: 25px;
+  list-style-type: none;
+  background-color: rgb(102, 191, 191);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: rgb(220, 220, 220);
+  font-family: Arial;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.section4 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  font-family: Arial;
+  background-color: #330c0c00;
+}
+
+aside {
+  display: flex;
+  justify-content: space-around;
+  line-height: 30px;
+}
+
+.commentSubmit {
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#submit_button {
+  background-color: rgb(17, 153, 158);
+  color: white;
+  border-radius: 6px;
+  padding: 10px;
+  border: solid 1px; 
+  border-color: rgb(17, 153, 158);
+}
+
+.section5 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: rgb(102, 191, 191);
+}
+
